@@ -1,6 +1,8 @@
 package Unit2UsingObjects;
 import java.util.Scanner;
 
+//BMI Calculator
+
 public class ScannerClassForTakingUserInput {
     public static void main(String[] args) {
         Scanner kb = new Scanner(System.in);
