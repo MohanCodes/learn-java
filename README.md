@@ -4,7 +4,7 @@
 
 ## About this Repository
 
-This repository is dedicated to those, like myself, who have undergone the Advanced Placement Computer Science A (APCSA) course and wish to refresh or improve their Java skills. The materials found here are based on Bill Barnum's AP CSA playlist on YouTube, supplemented with content from various other YouTubers who provide insights and deep dives into specific Java concepts.
+This repository is dedicated to those, like myself, who wish to refresh or improve their Java skills. The materials found here are based on Bill Barnum's AP CSA playlist on YouTube, supplemented with content from various other YouTubers who provide insights and deep dives into specific Java concepts.
 
 ---
 
